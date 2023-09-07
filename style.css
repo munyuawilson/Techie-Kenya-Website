@@ -1,0 +1,25 @@
+.video-wrapper{
+     /* Telling our absolute positioned video to 
+  be relative to this element */
+  overflow: hidden;
+  
+}
+.video{
+    height: 500px;
+}
+.color{
+    background-color: black;
+}
+.padding-text{
+    color:green;
+    padding-top: 150px;
+}
+.find-more{
+   
+    border-radius: 30px;
+    text-decoration: none;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 30px;
+    color:green;
+}
