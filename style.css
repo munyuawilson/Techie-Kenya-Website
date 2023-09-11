@@ -28,3 +28,13 @@ body{
     color:green;
 }
 
+.portfolio-box-caption{
+    opacity: 1;
+}
+.portfolio-box{
+    position: relative;
+  display: block;
+  text-decoration: none;
+  
+ 
+}
