@@ -2,15 +2,8 @@ body{
     background-color: black;
     
 }
-.video-wrapper{
-     /* Telling our absolute positioned video to 
-  be relative to this element */
-  overflow: hidden;
-  
-}
-.video{
-    height: 500px;
-}
+
+
 .color{
     background-color: black;
 }
